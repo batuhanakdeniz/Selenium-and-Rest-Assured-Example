@@ -1,0 +1,3 @@
+target/generated-test-sources
+target/test-classes
+src/test/resources/config/config.properties
